@@ -26,7 +26,7 @@ I tried to train the dataset with gan. stylegan and dcgan, and of course the ima
 Previously I tried to train the dataset with gan. An attempt to form a new set of images based on stylegan replaced the images.
 I chose my favourite stars. And picked some patterns to run. But hardly changed the original code very much.
 
-### Here the link:
+### Here the link:https://github.com/maanqii/coding_three_final/blob/main/Style_Transfer_Demo_change.ipynb
 
 
 
