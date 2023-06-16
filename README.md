@@ -28,5 +28,12 @@ I chose my favourite stars. And picked some patterns to run. But hardly changed 
 
 ### Here the link:https://github.com/maanqii/coding_three_final/blob/main/Style_Transfer_Demo_change.ipynb
 
+## reference book
+[1] GATYS, Leon A.; ECKER, Alexander S.; BETHGE, Matthias. Image styletransfer using convolutional neural networks. In: Proceedings of the IEEEconference on computer vision and pattern recognition. 2016. p. 2414-2423.
+
+[2] YANG, Fu Wen, et al. A study on the convolutional neural algorithmof image style transfer. International Journal of Pattern Recognition andArtificial Intelligence, 2019, 33.05: 1954020.
+
+[3] LIU, Long, et al. Advanced deep learning techniques for image styletransfer: A survey. Signal Processing: Image Communication, 2019, 78: 465-470.
+
 
 
