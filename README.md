@@ -19,4 +19,6 @@ As the original base version used the Adam optimiser, this was changed and comme
 ## Ⅱ
 I tried to train the dataset with gan. stylegan and dcgan, and of course the image class. An attempt to form a new set of images based on stylegan replacing the images. Since faces are better represented so I chose to select my favourite stars.
 
-### Here the link: https://colab.research.google.com/drive/1Dnf5BGAvagA03nAsxd9hmxrnQihO3MnJ
+### Here the link: https://github.com/maanqii/coding_three_final/blob/main/inference_playground_change3.ipynb
+
+
