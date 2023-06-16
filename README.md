@@ -1,6 +1,6 @@
 # Coding_three_final
 The main thing I wanted to do was to make some changes to the style migration and make beautiful images in different ways that I was happy with.
-All the training download images are stored in the image folder
+All the training download images are stored in the image folder（⭐: The content in the 'here the link' under # comments is basically the template content, ## the content under comments is my modified content）
 
 ## Ⅰ
 ### Basic reference version: https://tensorflow.google.cn/tutorials/generative/style_transfer 
@@ -15,4 +15,7 @@ The tutorial recommends the LBFGS optimiser. I went online and looked up the rel
 
 As the original base version used the Adam optimiser, this was changed and commented on. However, when running it, it would report an error. Although it was an attempt, it took a long time to study it, and I was exhausted because of the errors reported. This version is for reference only, but I will continue to study it and hope that the final version will run successfully.This is my final result.
 ### Here the link: https://github.com/maanqii/coding_three_final/blob/main/coding_three_change2.ipynb
+
 ## Ⅱ
+I tried to train the dataset with gan. stylegan and dcgan, and of course the image class. An attempt to form a new set of images based on stylegan replacing the images. Since faces are better represented so I chose to select my favourite stars.
+### Here the link: https://colab.research.google.com/drive/1Dnf5BGAvagA03nAsxd9hmxrnQihO3MnJ
