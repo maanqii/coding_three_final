@@ -4,7 +4,7 @@ All the training download images are stored in the image folder（⭐: The conte
 
 # YOUTUBE：https://youtu.be/RVFAbCpczrY
 
-## Ⅰ
+## ⅠWROK
 ### Basic reference version: https://tensorflow.google.cn/tutorials/generative/style_transfer 
 
 I have commented line of code with some of the numerical changes I made: , which facilitates my understanding of the convolutional network and its subsequent writing.
@@ -18,9 +18,15 @@ The tutorial recommends the LBFGS optimiser. I went online and looked up the rel
 As the original base version used the Adam optimiser, this was changed and commented on. However, when running it, it would report an error. Although it was an attempt, it took a long time to study it, and I was exhausted because of the errors reported. This version is for reference only, but I will continue to study it and hope that the final version will run successfully.This is my final result.
 ### Here the link: https://github.com/maanqii/coding_three_final/blob/main/coding_three_change2.ipynb
 
-## Ⅱ
+## ⅡATTEMPT
 I tried to train the dataset with gan. stylegan and dcgan, and of course the image class. An attempt to form a new set of images based on stylegan replacing the images. Since faces are better represented so I chose to select my favourite stars.
 
 ### Here the link: https://github.com/maanqii/coding_three_final/blob/main/inference_playground_change3.ipynb
+
+Previously I tried to train the dataset with gan. An attempt to form a new set of images based on stylegan replaced the images.
+I chose my favourite stars. And picked some patterns to run. But hardly changed the original code very much.
+
+### Here the link:
+
 
 
